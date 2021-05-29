@@ -34,9 +34,11 @@ body {
 }
 
 .details {
-    border-style: groove;
-    border-color: #222222;
+    border-style: inset;
+    border-color: #1d1d1d;
     border-width: medium;
+    padding: inherit;
+    margin: auto;
     max-width: 38em;
     margin-left: auto;
     margin-right: auto;
