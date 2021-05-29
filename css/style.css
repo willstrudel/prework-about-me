@@ -34,6 +34,9 @@ body {
 }
 
 .details {
+    border-style: groove;
+    border-color: #222222;
+    border-width: medium;
     max-width: 38em;
     margin-left: auto;
     margin-right: auto;
